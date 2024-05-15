@@ -1,3 +1,4 @@
+# Notes - App
 Welcome to the Notes App! This simple and intuitive application allows you to create, update, and delete notes effortlessly. The app is built using JavaScript and leverages `localStorage` to save your notes.
 
 ## 📋 Features
